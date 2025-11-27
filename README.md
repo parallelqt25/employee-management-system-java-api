@@ -95,7 +95,7 @@
 ---
 
 ## Tech Constraints
-- Build: **Maven** (or Gradle).  
+- Build: **Maven**.  
 - DB: **MariaDB 10.6+** (InnoDB, utf8mb4).  
 - ORM: **Spring Data JPA** (Hibernate).  
 - Optional cache: **Spring Cache + Caffeine**.  
